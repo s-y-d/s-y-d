@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Syd
+- 👋 Hi, God here
 - 👀 I’m interested in God, music, coding and God again
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Frontend and Backend projects
-- 📫 How to reach me: Email me here: @wartywarthog7@gmail.com
+- 📫 How to reach me: pray and I will answer
 
 <!---
 y-h-v-h/y-h-v-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

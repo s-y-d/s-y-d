@@ -1,7 +1,7 @@
 - 👋 Hi, God here
-- 👀 I’m interested in God, music, coding and God again
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on Frontend and Backend projects
+- 👀 I’m interested in creation, music, dance and you
+- 🌱 Currently creating a human
+- 💞️ I’m looking forward to talking with you
 - 📫 How to reach me: pray and I will answer
 
 <!---
